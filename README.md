@@ -1,0 +1,2 @@
+# MallAdmin
+Just a practice.
